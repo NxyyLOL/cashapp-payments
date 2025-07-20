@@ -1,6 +1,6 @@
 import requests,re,string,random
 
-your_cash_tag = "$LiteEagl"
+your_cash_tag = "$nxyyig"
 
 '''
 Create a json file called, processed.json and add the below to it
